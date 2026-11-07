@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "astropy",
+  "repo": "astropy-roadmap",
+  "versions": [
+    {
+      "commit": "a529bb2dfc94e16592c51e23b20bc18a72b93f63",
+      "parsed_at": "2026-11-07T00:57:10.271021+00:00",
+      "filetree": "filetree/a529bb2dfc94e16592c51e23b20bc18a72b93f63.nq.gz",
+      "blobs": [
+        "blob/33065e35d24089dcf2f96b58080de3519bb1c1bd.nq.gz",
+        "blob/89531d2a76ae528bf4d25c45b1393a3e797fa428.nq.gz",
+        "blob/2359e691cbd9dc9ae4592a1b36483cf97ed031bf.nq.gz",
+        "blob/06950bb06321cdee8960f7661ed1a17ee6a876de.nq.gz",
+        "blob/6a3467216f2f10436aef13de7fda3651bfe8d4c5.nq.gz",
+        "blob/950f0bba66aae75b89fbe08607f819631b45e5f7.nq.gz",
+        "blob/ca6423f37284cf0475f13697e6f30f132400854a.nq.gz",
+        "blob/343d25256eb4b0eeffd6b9b9b67538cc6663b102.nq.gz",
+        "blob/2ede6e9b719496f7cbd17338437f90d410dcd3b3.nq.gz",
+        "blob/c2cd7f703635788b35fd6ec9b2889a0417f46f06.nq.gz",
+        "blob/ac7c683e74ca3a6dd1ccfbb044d238a55c07fcd6.nq.gz",
+        "blob/41c3f6ee05498dd5513e941c1b7b81c7ef715525.nq.gz",
+        "blob/66003ee5feff4a66c8cf621c33854e62f8c3e6b5.nq.gz",
+        "blob/d4bfa1e18252f81dc872add1d3a7f7dc6d001ddc.nq.gz",
+        "blob/bf1cb55bc05830f10cb9a6469bc1dfd53a90253c.nq.gz",
+        "blob/128048c640862bc92e86354bbcbef39069cc8640.nq.gz",
+        "blob/7f58085350eb8bfea8edf6bb4e101aeca2fc7101.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

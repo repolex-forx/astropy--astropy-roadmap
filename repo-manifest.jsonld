@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/astropy/astropy-roadmap/commit/a529bb2dfc94e16592c51e23b20bc18a72b93f63",
       "git:hexsha": "a529bb2dfc94e16592c51e23b20bc18a72b93f63",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

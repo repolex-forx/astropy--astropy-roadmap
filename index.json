@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "astropy-roadmap",
+  "versions": [
+    {
+      "commit": "a529bb2dfc94e16592c51e23b20bc18a72b93f63",
+      "tag": "",
+      "parsed_at": "2026-11-07T00:59:32.473295+00:00"
+    }
+  ]
+}
